@@ -17,6 +17,10 @@ Working on HistoTrain taught me how to plan short-term projects, work with pre-t
 The next step for HistoTrain is to share the tool with physicians and gather feedback for further improvements. This includes developing a mobile app for easier access and adding a gradient color map to the saliency maps for improved interpretability. Ultimately, HistoTrain has the potential to revolutionize breast cancer diagnostics and improve patient outcomes in the clinic.
 
 ![alt text](https://github.com/vrishankc/histo_train/blob/main/insitu.png)
+In-Situ Cells 
 ![alt text](https://github.com/vrishankc/histo_train/blob/main/invasive.png)
+Invasive Cells
 ![alt text](https://github.com/vrishankc/histo_train/blob/main/benign.png)
+Benign Cells
 ![alt text](https://github.com/vrishankc/histo_train/blob/main/normal.png)
+Normal Cells
